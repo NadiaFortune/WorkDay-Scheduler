@@ -13,7 +13,7 @@ The desired outcome was to allow for the following to happen::
 -Save the event in local storage when the save button is clicked in that timeblock;  
 -Persist events between refreshes of a page  
 
-Languages ued to create the applictaion were:
+Languages ued to create the applictaion were:  
 -HTML  
 -CSS  
 -Vanilla JavaScript  
